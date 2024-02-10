@@ -1,0 +1,37 @@
+.Select-value {
+    color: white;
+}
+
+.loading-wrapper > div {
+    visibility: visible !important;
+}
+
+.Select--multi > .Select-control .Select-value, .Select-placeholder {
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: #8c2c2c;
+    color: white;
+}
+
+.Select-control {
+  background-color: #8c2c2c !important;
+}
+
+.Select-menu-outer {
+  background-color: #8c2c2c;
+}
+
+.Select-value-label {
+    color: white !important;
+}
+
+.Select input{
+    color: white;
+}
+
+#textBox {
+    border: 4px solid #ccc;
+    border-radius: 20px;
+    background-color: #b3b3b3;
+    padding: 6px 6px;
+}
